@@ -1,6 +1,6 @@
 #SITE CONFIGURATIONS
 url: http://jcruiz.co
-baseurl: "" # the subpath of your site, e.g. /blo
+baseurl: "/blog/" # the subpath of your site, e.g. /blo
 
 #THEME SPECIFIC CONFIGURATION
 title: The Other Radio
@@ -47,6 +47,9 @@ google_analytics_tracking_id: UA-44281567-1
 #Well-known config
 include:
   - .well-known/
+
+# Github configurations
+domain: jcruiz.co
 
 # Exclude from processing.
 # The following items will not be processed, by default.
