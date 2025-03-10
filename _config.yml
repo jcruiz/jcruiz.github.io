@@ -1,6 +1,6 @@
 #SITE CONFIGURATIONS
 url: http://jcruiz.co
-baseurl: "/blog/" # the subpath of your site, e.g. /blo
+baseurl: "" # the subpath of your site, e.g. /blo
 
 #THEME SPECIFIC CONFIGURATION
 title: The Other Radio
