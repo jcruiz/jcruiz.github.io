@@ -8,24 +8,12 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # gem "jekyll", "~> 4.4.1"
-gem "github-pages", "~> 232"
-gem "rake"
-ruby "3.4.2"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
-
-#This is the new theme - Nov 2021
-gem "type-on-strap"
-
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-paginate"
-end
 gem "webrick"
+gem 'kramdown-parser-gfm'
+
+# For github pages compatibility
+gem 'github-pages', group: :jekyll_plugins
+gemspec
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
