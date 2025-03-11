@@ -13,7 +13,6 @@ gem 'kramdown-parser-gfm'
 
 # For github pages compatibility
 gem 'github-pages', group: :jekyll_plugins
-gemspec
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
