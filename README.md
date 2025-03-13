@@ -1,6 +1,7 @@
 ## What is this blog built on?
 
 This blog uses [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
+The theme I use is: [Type-on-Strap](https://github.com/sylhare/Type-on-Strap)
 
 ## Would you like to clone this repo?
 Although I don't think there is much you would like to clone, if you do, at least drop me a note.
@@ -20,10 +21,5 @@ bundle update
 Running the blog local
 ```bash
 bundle exec jekyll serve
-```
-
-Previewing an open PR in Heroku before merging
-```bash
-heroku ps:scale web=1 --app <name of the preview app>
 ```
 JC

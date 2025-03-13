@@ -1,12 +1,3 @@
-PATH
-  remote: .
-  specs:
-    type-on-strap (2.4.11)
-      jekyll (>= 3.8, < 5.0)
-      jekyll-feed (>= 0.15.1, <= 0.17)
-      jekyll-paginate (~> 1.1.0)
-      jekyll-seo-tag (>= 2.7.1, <= 2.8)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -277,9 +268,11 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  base64 (~> 0.2.0)
+  csv (~> 3.3)
   github-pages
   kramdown-parser-gfm
-  type-on-strap!
+  logger (~> 1.6)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

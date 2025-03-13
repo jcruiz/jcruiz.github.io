@@ -9,7 +9,7 @@ favicon:
 author: Juan Camilo Ruiz
 
 # Header and footer text
-header_text: Views on Product Management and web stuff
+header_text: Views on Product Management and web stuff </n> Welcome to JuanCa's playground
 header_feature_image: assets/img/header-feature.jpg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -35,7 +35,7 @@ paginate: 5  # amount of posts to show per page
 paginate_path: /page:num/
 
 # Blog
-excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+excerpt: truncate                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png
 # Format titles with titlecase?
