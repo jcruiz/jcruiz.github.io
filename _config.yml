@@ -9,10 +9,9 @@ favicon:
 author: Juan Camilo Ruiz
 
 # Header and footer text
-header_text: Views on Product Management and web stuff </n> Welcome to JuanCa's playground
+header_text: Views on Product Management and web stuff</b> Welcome to JuanCa's playground
 header_feature_image: assets/img/header-feature.jpg
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+footer_text: Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
 description: "I'm Juan Camilo Ruiz, technologist and computer sciences professional from Bogotá, Colombia-living in Dublin. Product at Microsoft, former PM @BigCommerce, @Moovweb and @Oracle. Love technology, love to learn, welcome to my playground. This blog contains my personal opinions and don't represent anyone but me."
 twitter_username: juanca
@@ -23,9 +22,7 @@ linkedin_username: juancamiloruiz
 #Original theme
 # theme: minima
 remote_theme: sylhare/Type-on-Strap
-color_theme: dark
-plugins:
-  - jekyll-feed
+# remote_theme: dieghernan/chulapa
 
 # Default templates for posts and pages
 # Found in _templates/

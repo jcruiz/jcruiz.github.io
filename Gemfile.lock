@@ -268,11 +268,8 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  base64 (~> 0.2.0)
-  csv (~> 3.3)
   github-pages
   kramdown-parser-gfm
-  logger (~> 1.6)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
