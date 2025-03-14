@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "A new theme and performance added to the blog"
 date: 2014-08-22 23:42
 comments: true

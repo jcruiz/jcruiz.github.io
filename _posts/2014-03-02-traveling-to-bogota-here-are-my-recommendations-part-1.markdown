@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "Traveling to Bogota? Here are my recommendations part 1"
 date: 2014-03-02 17:06
 comments: true

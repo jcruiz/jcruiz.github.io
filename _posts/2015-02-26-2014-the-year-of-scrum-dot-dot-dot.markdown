@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "2014 The Year of Scrum..."
 date: 2015-02-26 02:12
 comments: true

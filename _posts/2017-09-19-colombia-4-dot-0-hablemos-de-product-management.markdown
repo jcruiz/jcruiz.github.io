@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "Colombia 4.0 - Hablemos de Product Management!"
 date: 2017-09-19 20:59
 comments: true

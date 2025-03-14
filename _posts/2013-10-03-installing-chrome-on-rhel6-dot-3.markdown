@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "Installing Chrome on RHEL6.3"
 date: 2013-10-03 00:04
 comments: true

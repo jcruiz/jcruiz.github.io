@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "Using JIRA for Product Development Cycles part 1"
 date: 2015-08-25 00:01
 comments: true

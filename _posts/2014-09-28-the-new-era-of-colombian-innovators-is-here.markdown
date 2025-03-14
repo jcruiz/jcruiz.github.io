@@ -1,8 +1,9 @@
 ---
-layout: post
+# layout: post
 title: "The New Era of Colombian Innovators is here"
 date: 2014-09-28 22:34
 comments: true
+feature-img: "assets/img/col-innovators/group.jpg"
 categories: [Colombia, entrepreneurship]
 published: true
 ---
@@ -10,7 +11,6 @@ In recent weeks I've virtually followed 2 StartupWeekend events that took place 
 
 I noticed something that is establishing as a strong and valid alternative that attracts young generations to come up with a fearless attitude and bring fresh and new ideas to improve the way things work in the country/city/communities. In this article I'm going to offer my negative and positive impressions together with resources that are useful for anyone that wants to follow up on this.  
 <!--more-->
-{% include aligner.html images="col-innovators/group.jpg" %}
 ###Event 1: StartupWeekend Uniandes
 I found out about a [startup-weekend Uniandes](http://uniandes.startupweekend.org/) event that took place at the no.1 ranked school in the country. And I was positive surprise that they had a live stream.
 

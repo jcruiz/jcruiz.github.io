@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "Getting Octopress Up and Running in OS X Yosemite"
 date: 2015-02-28 16:07
 comments: true

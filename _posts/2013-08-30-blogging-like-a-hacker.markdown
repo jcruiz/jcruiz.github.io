@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "Blogging Like a Hacker"
 date: 2013-08-30 13:30
 comments: true

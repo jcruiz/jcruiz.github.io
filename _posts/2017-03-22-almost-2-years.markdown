@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "Almost 2 years"
 date: 2017-03-22 00:04
 comments: true

@@ -1,66 +1,50 @@
 #SITE CONFIGURATIONS
 baseurl: "" # the subpath of your site, e.g. /blo
-url: "https://jcruiz.github.io"
+url: "https://jcruiz.co"
 
-#THEME SPECIFIC CONFIGURATION
+#THEME SPECIFIC CONFIGURATION - Hydeout
+remote_theme: fongandrew/hydeout
+
+# A. Site Settings /SEO options
 title: The Other Radio
-description: Views on product management and web stuff
-favicon:
-author: Juan Camilo Ruiz
+tagline: 
+description: Juan Camilo Ruiz views on product management, traveling and web stuff
 
-# Header and footer text
-header_text: Views on Product Management and web stuff</b> Welcome to JuanCa's playground
-header_feature_image: assets/img/header-feature.jpg
-footer_text: Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
-
-description: "I'm Juan Camilo Ruiz, technologist and computer sciences professional from Bogotá, Colombia-living in Dublin. Product at Microsoft, former PM @BigCommerce, @Moovweb and @Oracle. Love technology, love to learn, welcome to my playground. This blog contains my personal opinions and don't represent anyone but me."
-twitter_username: juanca
-github_username:  jcruiz
-linkedin_username: juancamiloruiz
-
-# Build settings
-#Original theme
-# theme: minima
-remote_theme: sylhare/Type-on-Strap
-# remote_theme: dieghernan/chulapa
-
-# Default templates for posts and pages
-# Found in _templates/
-post_layout: post
-page_layout: page
-paginate: 5  # amount of posts to show per page
-paginate_path: /page:num/
-
-# Blog
-excerpt: truncate                                           # Or "truncate" (first 250 characters), "false" to disable
-post_navigation: true
-color_image: /assets/img/lineart.png
-# Format titles with titlecase?
-titlecase: true
-
-# Google Analytics
+# SEO
+analytics: true
+author:
+  name: Juan Camilo Ruiz
+  url: https://twitter.com/juanca
 google_analytics: UA-44281567-1
 
-#Well-known config
+# B. Navigation
+paginate: 5
+sidebar_home_link: true
+
+github:
+  repo: https://github.com/jcruiz/blog
+twitter: juanca
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
+
+
+# Exclude these files from production site
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor
+
 include:
   - .well-known/
+  - pages
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false

@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "The No-Cable Era: A geek's perspective"
 date: 2014-02-19 00:40
 comments: true

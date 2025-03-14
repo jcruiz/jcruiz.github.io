@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "En La Copa, Brasil demuestra su potencial una vez más"
 date: 2014-07-15 20:20
 comments: true

@@ -1,9 +1,0 @@
-mail:
-  pre: "mailto://"
-  icon: "fas fa-envelope"
-linkedin:
-  pre: "https://www.linkedin.com/in/"
-github:
-  pre: "https://github.com/"
-twitter:
-  pre: "https://twitter.com/"

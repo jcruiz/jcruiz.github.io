@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "Ruby RVMs and Mac OS X Update2 (Mavericks) Issues"
 date: 2014-03-26 00:29
 comments: true

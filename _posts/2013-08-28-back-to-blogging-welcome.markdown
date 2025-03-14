@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "Back to Blogging - Welcome"
 date: 2013-08-28 13:30
 comments: true
