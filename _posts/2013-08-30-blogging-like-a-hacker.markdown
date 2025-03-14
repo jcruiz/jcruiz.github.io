@@ -3,7 +3,7 @@
 title: "Blogging Like a Hacker"
 date: 2013-08-30 13:30
 comments: true
-categories: [hacking, octopress]
+categories: [technology, hacking, octopress]
 published: true
 ---
 My old blogs used well known blogging engines: blogger and MovableType. For years blogger has been able to keep up with trends - in my opinion always catching up. However, I didn't want to simply create a new blog on blogger; something was just not right.

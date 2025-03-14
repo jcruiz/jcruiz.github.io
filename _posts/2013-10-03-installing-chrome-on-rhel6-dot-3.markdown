@@ -3,7 +3,7 @@
 title: "Installing Chrome on RHEL6.3"
 date: 2013-10-03 00:04
 comments: true
-categories: [installation, enterprise]
+categories: [techonology, installation, enterprise]
 ---
 
 Facing an interesting task the other day at work. Install [Google Chrome](https://www.google.com/intl/en/chrome/browser/) in a RHEL6.3 machine. This seems like a pretty standard task to be performed.

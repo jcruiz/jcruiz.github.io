@@ -41,6 +41,7 @@ exclude:
 include:
   - .well-known/
   - pages
+  - categories
 
 # Conversion
 markdown: kramdown
