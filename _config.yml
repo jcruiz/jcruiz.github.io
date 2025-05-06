@@ -39,7 +39,7 @@ exclude:
   - vendor
 
 include:
-  - .well-known/
+  - .well-known
   - pages
   - categories
 
