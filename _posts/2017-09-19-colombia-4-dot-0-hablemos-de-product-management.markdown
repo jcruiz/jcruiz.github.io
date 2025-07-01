@@ -4,7 +4,7 @@ title: "Colombia 4.0 - Hablemos de Product Management!"
 date: 2017-09-19 20:59
 comments: true
 feature-img: "assets/img/col4/colombia-40.jpg"
-categories: [talks, product management]
+categories: [product management]
 published: true
 ---
 El próximo 21 de Septiembre, a las 11:30 am estaré realizando una presentación dentro del evento [Colombia 4.0](http://www.col40.co/638/w3-propertyvalue-15297.html) lo cuál me llena de alegría el haber sido invitado a un evento en mi país, el presentar en conferencias algo que hace algún tiempo no hacía y aparte de eso poder compartir un tema que me apasiona mucho que es el arte del Product Management.

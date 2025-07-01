@@ -3,7 +3,7 @@
 title: "Almost 2 years"
 date: 2017-03-22 00:04
 comments: true
-categories: [product management, moovcheckout]
+categories: [product management]
 ---
 It's been almost two years since my last post on the blog. I'm in shock how fast the time goes by however, it's great to come back and start writing again. Also it's pretty amazing the number of things that I have learned since my last post.
 

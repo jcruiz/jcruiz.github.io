@@ -3,7 +3,7 @@
 title: "Getting Octopress Up and Running in OS X Yosemite"
 date: 2015-02-28 16:07
 comments: true
-categories: [technology, octopress, OS X]
+categories: [technology]
 published: true
 ---
 

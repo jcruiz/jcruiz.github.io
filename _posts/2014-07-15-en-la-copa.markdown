@@ -3,7 +3,7 @@
 title: "En La Copa, Brasil demuestra su potencial una vez más"
 date: 2014-07-15 20:20
 comments: true
-categories: [traveling, world cup, español] 
+categories: [traveling] 
 ---
 
 En días pasados tuve la oportunidad de escribir un artículo para la revista [Mac Magazine Brasil](http://macmagazine.com.br) en el que comparto mi perspectiva después de haber asistido a la copa del mundo en Brasil, narrando las similitudes que encuentro con Colombia alrededor del potencial que nuestros países tienen en un mundo donde las fronteras están cada vez más cerca.

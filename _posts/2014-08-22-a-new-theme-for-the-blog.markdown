@@ -3,7 +3,7 @@
 title: "A new theme and performance added to the blog"
 date: 2014-08-22 23:42
 comments: true
-categories: [techonology, octopress, theme]
+categories: [techonology]
 published: true
 ---
 This week I started looking at how to modify or replace the "classic" theme that comes off-the-shelf with Octopress. I was positively surprised when I found the glorious [3rd party Octopress themes](https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes). I took the time to check most of them and it was great to see a consistent high-quality around most of them. Also, how easy it was to add them into the blog. On top of that, I added a few experimental performance settings to speed up the blog using the limited free infrastructure. Read on to get more details.

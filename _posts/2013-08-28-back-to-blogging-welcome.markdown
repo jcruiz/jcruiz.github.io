@@ -3,7 +3,7 @@
 title: "Back to Blogging - Welcome"
 date: 2013-08-28 13:30
 comments: true
-categories: [technology, general]
+categories: [technology]
 published: true 
 ---
 I started my first [blog](http://oracleradio.blogspot.com) in 2007, with the objective to share technical information about Oracle development tools in Spanish. A couple of years after that I started [another one](http://blogs.oracle.com/jruiz) in English too as part of my previous job.

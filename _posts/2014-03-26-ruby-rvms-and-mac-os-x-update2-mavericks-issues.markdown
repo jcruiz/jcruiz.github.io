@@ -3,7 +3,7 @@
 title: "Ruby RVMs and Mac OS X Update2 (Mavericks) Issues"
 date: 2014-03-26 00:29
 comments: true
-categories: [technology, Workarounds, RVM, Mavericks]
+categories: [technology]
 ---
 I use [RVMs](http://rvm.io/) to run ruby applications such as this blog and @Moovweb's pre-release software built via [ruby gems](http://en.wikipedia.org/wiki/RubyGems).
 

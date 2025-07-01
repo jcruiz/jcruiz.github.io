@@ -3,7 +3,7 @@
 title: "Traveling to Bogota? Here are my recommendations part 1"
 date: 2014-03-02 17:06
 comments: true
-categories: [traveling, Colombia, Bogota]
+categories: [traveling]
 ---
 
 I've been asked in various occasions for recommendations and tips when traveling to Colombia. The people that know me, are aware that I talk a lot about Colombia and about my life growing in Bogota.
