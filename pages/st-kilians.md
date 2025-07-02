@@ -1,33 +1,30 @@
 ---
 layout: page
-title: "Karate - St. Kilians Overview and FAQ "
-date: 2025-06-30 16:45
-comments: true
-categories: [karate]
-published: true
+title: Traditional Karate - St. Kilians
+permalink: /karate/st-kilians
+sidebar_link: false
 ---
-
-# Traditional Karate - St. Kilians 
+![](/assets/img/karate/banner.png)
 ## Program Overview
 In the traditional Karate aftercare program at St. Kilian’s the students will learn the foundation and core techniques of traditional Shotokan Karate. The techniques focus on physical fitness, hand-leg and body coordination. Karate students also learn invaluable life skills such as respect for oneself and others, endeavour, and self-discipline, all of which complement academic learning and personal development.
 
 ## Program details 
-    Location General assembly area
-    Day: Fridays
-        KG/VS: 1:30pm - 2:10pm
-        1st/2nd class: 2:10pm - 3pm   
-    Class length: 45 mins  
-    Program duration: Half-year (second half of school year subject to feedback) 
-    Cost: **€140** (discount available for siblings)
-    Uniform required: No, but if already has one, welcome to use it. 
+* **Location General:** assembly area in the school
+* **Day:** Fridays
+    * KG/VS: 1:30pm - 2:10pm
+    * 1st/2nd class: 2:10pm - 3pm   
+* **Class length:** 45 mins  
+* **Program duration:** Half-year (second half of school year subject to feedback) 
+* **Cost: €140** (discount available for siblings)
+* **Uniform required:** No, but if the student already has one, they are welcome to use it. 
 
 ## About the Instructor
-|       |       |
-| ------------- | ------------- |
-|![](/assets/img/karate/karate-juan.jpg)  | I'm Juan Camilo Ruiz, parent of a 1st class student, and I am a 3rd-degree black belt with the [Japan Karate Association (JKA)](https://www.jka.or.jp/en/). With over 30 years of experience practicing traditional Karate and more than a decade dedicated to teaching. Karate has been a lifelong passion of mine, one that I would love to share with the St. Kilian’s community. |
+
+| :--------------: | ------------------- | 
+|[<img src="/assets/img/karate/karate-juan.jpg" alt="juan"/>](/assets/img/karate/karate-juan.jpg)  | I'm Juan Camilo Ruiz, parent of a 1st class student, and I am a 3rd-degree black belt with the [Japan Karate Association (JKA)](https://www.jka.or.jp/en/){:target="_blank"}. With over 30 years of experience practicing traditional Karate and more than a decade dedicated to teaching. Karate has been a lifelong passion of mine, one that I would love to share with the St. Kilian’s community. |
 
 ## How to Register
-We have limited spaces in each group. We'll do the best to accommodate as many as possible. To request a space please fill out the [following form](https://forms.office.com/r/0AEDMi1WX7)
+We have limited spaces in each group. We'll do the best to accommodate as many as possible. To request a space please fill out the [following form](https://forms.office.com/r/0AEDMi1WX7){:target="_blank"}
 
 ## FAQ
 **Does my child need to have previous Karate experience to join?** 
