@@ -11,8 +11,14 @@ In the traditional Karate aftercare program at St. Kilian’s the students will 
 ## Program details 
 * **Location** General assembly area at the school
 * **Day/times:** Fridays
-    * KG/VS: 1:30pm - 2:10pm
-    * 1st/2nd class: 2:10pm - 3pm   
+
+| Group and Class | Time |
+| :-------------- | :--------------: |
+| Group 1: KG/VS | 1:30pm - 2:10pm |
+| Group 1: 1st/2nd class | 2:10pm - 2:50pm |
+| Group 2: KG/VS | 2:50pm - 3:30pm |
+| Group 2: 1st/2nd class | 3:30pm - 4:00pm |
+
 * **Class length:** 45 mins  
 * **Program duration:** Half-year (second half of school year subject to feedback) 
 * **Cost: €140** (discount available for siblings)
