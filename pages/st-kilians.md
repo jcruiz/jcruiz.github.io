@@ -14,13 +14,13 @@ In the traditional Karate aftercare program at St. Kilian’s the students will 
 
 | Group and Class | Time |
 | :-------------- | :--------------: |
-| Group 1: KG/VS | 1:30pm - 2:10pm |
-| Group 1: 1st/2nd class | 2:10pm - 2:50pm |
-| Group 2: KG/VS | 2:50pm - 3:30pm |
-| Group 2: 1st/2nd class | 3:30pm - 4:10pm |
+| Group 1: 1st/2nd class | 1:30pm - 2:10pm |
+| Group 2: 1st/2nd class | 2:10pm - 2:50pm |
+| Group 1: 3rd/4th class | 2:50pm - 3:30pm |
+| Group 2: 3rd/4th class | 3:30pm - 4:10pm |
 
-* **Class length:** 45 mins  
-* **Program duration:** Half-year (second half of school year subject to feedback) 
+* **Class length:** 40 mins  
+* **Program duration:** Half-year (January - May) 
 * **Cost: €140** (discount available for siblings)
 * **Uniform required:** No, but if the student already has one, they are welcome to use it. 
 
@@ -30,7 +30,7 @@ In the traditional Karate aftercare program at St. Kilian’s the students will 
 | [<img src="/assets/img/karate/karate-juan.jpg" width="1200" alt="juan"/>](/assets/img/karate/karate-juan.jpg)  | I'm Juan Camilo Ruiz, parent of a 1st class student, and I am a 3rd-degree black belt with the [Japan Karate Association (JKA)](https://www.jka.or.jp/en/){:target="_blank"}. With over 30 years of experience practicing traditional Karate and more than a decade dedicated to teaching. Karate has been a lifelong passion of mine, one that I would love to share with the St. Kilian’s community. |
 
 ## How to Register
-We have limited spaces in each group. We'll do the best to accommodate as many as possible. To request a space please fill out the [following form](https://forms.office.com/r/0AEDMi1WX7){:target="_blank"}
+We have limited spaces in each group. We'll do the best to accommodate as many as possible. To request a space please fill out the [following form](https://forms.cloud.microsoft/r/PUpsRBbRF6){:target="_blank"}
 
 ## FAQ
 **Does my child need to have previous Karate experience to join?** 
