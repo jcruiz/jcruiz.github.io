@@ -21,7 +21,7 @@ In the traditional Karate aftercare program at St. Kilian’s the students will 
 
 * **Class length:** 40 mins  
 * **Program duration:** Half-year (January - May) 
-* **Cost: €140** (discount available for siblings)
+* **Cost: €180** (discount available for siblings)
 * **Uniform required:** No, but if the student already has one, they are welcome to use it. 
 
 ## About the Instructor
