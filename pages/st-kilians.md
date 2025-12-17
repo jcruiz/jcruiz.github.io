@@ -16,7 +16,7 @@ In the traditional Karate aftercare program at St. Kilian’s the students will 
 | :-------------- | :--------------: |
 | Group 1: 1st/2nd class | 1:30pm - 2:10pm |
 | Group 2: 1st/2nd class | 2:10pm - 2:50pm |
-| Group 1: 3rd/4th class | 2:50pm - 3:30pm |
+| Group 3: 1st/2nd class | 2:50pm - 3:30pm |
 | Group 2: 3rd/4th class | 3:30pm - 4:10pm |
 
 * **Class length:** 40 mins  
