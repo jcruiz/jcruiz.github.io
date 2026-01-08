@@ -37,10 +37,10 @@ We have limited spaces in each group. We'll do the best to accommodate as many a
 No, the class will have a focus on beginner's level. If your child has previous experience, that will be great to show case to others how to execute the techniques.
 
 **Does my child need uniform for the class?** 
-Uniform is not required, however there is no problem if the child already has a Gi and would like to use it.  
+Uniform is not required, make sure your child wears comfortable sports clothes to class. Traditionally, we practice barefoot.
 
 **Are there any age requirements?** 
-Karate for kids can start from 4 years, however my recommendation is to start from 5 years. 
+Karate for kids can start from 5 years, however my recommendation is to start from 6+ years. 
 
 **Will there be sparing?** 
 At a beginner level, especially for kids we'll focus on shadow practice and application of techniques in a controlled setting. No sparing takes place at this level. Only foundation, basics.
@@ -50,6 +50,9 @@ We'll collect feedback from parents during the first half of the 25/26 school ye
 
 **Is there a discount for siblings?**
 Yes, there will be a 10% discount applied if siblings are part of the program.
+
+**My child likes Karate a lot do you have any recommendations for dojos nearby?
+Although I haven't seen their classes, I've heard of a few kids that attend the Hombu Dojo in Ranelagh [](https://hombudojokarate.com/). They have a program for kids. Also, the Kaizen dojo in Terenure [](http://www.kaizendojo.ie/home) has great facilities and karate programs. The only JKA dojos running kids programs is St. Brigid's Karate Club in Castleknock [](https://jkadublin.wixsite.com/stbrigidsjka)
 
 Any additional details or information don't hesitate to reach to out to [contact@jcruiz.co](mailto:contact@jcruiz.co).
  
